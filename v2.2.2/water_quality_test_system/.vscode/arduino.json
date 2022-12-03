@@ -1,0 +1,5 @@
+{
+    "board": "SPRESENSE:spresense:spresense",
+    "sketch": "water_quality_test_system.ino",
+    "configuration": "Core=Main,Memory=768,Debug=Disabled,UploadSpeed=115200"
+}
