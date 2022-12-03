@@ -1,2 +1,3 @@
 新增上位机控制模式切换wifi/lora
 下位机自主模式切换wifi/lora模式
+测试了git的pull
